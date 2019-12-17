@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Volumes/Secondary/ServerSide/firstVapor/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
