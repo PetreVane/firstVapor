@@ -1,5 +1,7 @@
 import Routing
 import Vapor
+import Leaf
+import Foundation
 
 /// Register your application's routes here.
 ///
@@ -11,8 +13,11 @@ public func routes(_ router: Router) throws {
         return "Hello, world!"
     }
     
-    router.get() { request in
-        return "Hello there, this is the starting page!"
+    router.get { request -> Future<View> in
+        
+        let context = [String : String]()
+        
+        return try request.view().render("home", context)
     }
     
     
