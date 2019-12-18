@@ -23,4 +23,35 @@ public func routes(_ router: Router) throws {
         return try request.view().render("contact", context)
     }
     
+    router.get("staff", String.parameter) { request -> Future<View> in
+        
+        // getting the name the user has typed in
+        let name = try request.parameters.next(String.self)
+        
+        // create some dummy data to work with
+        let bios = ["kirk" : "My name is James Kirk and I love snakes.",
+                    "picard": "My name is Jean-Luc Picard and I'm mad for fish.",
+                    "sisko": "My name is Benjamin Sisko and I'm all about the budgies.",
+                    "janeway": "My name is Kathryn Janeway and I want to hug every hamster.",
+                    "archer": "My name is Jonathan Archer and beagles are my thing."
+                    ]
+        // define the struct we'll pass to the template
+        struct StaffMembers: Codable {
+            let name: String?
+            let bios: String?
+            var names: [String]
+        }
+        
+        let context: StaffMembers
+        
+        // attempting to find a staff member by this name and fill in our struct
+        if let bio = bios[name] {
+            context = StaffMembers(name: name, bios: bio, names: bios.keys.sorted())
+            print("Bio found for \(name): \(bio)")
+        } else {
+            context = StaffMembers(name: nil, bios: nil, names: bios.keys.sorted())
+        }
+        
+        return try request.view().render("staff", context)
+    }
 }

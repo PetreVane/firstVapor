@@ -1,0 +1,29 @@
+
+<html>
+    <body>
+
+    #if(name) {
+    
+        <h2>#capitalize(name)</h2>
+        <h3>#(bio)</h3>
+        
+    } else {
+    
+        <h1>Unknown staff member</h1>
+        <p>We didn't recognize that person.</p>
+    }
+     
+     <p>Choose a staff member to view:</p>
+     
+     <ul>
+     
+     #for(name in allNames) {
+     <li><a href="https://www.hackingwithswift.com/staff/#(name)">#capitalize(name)</a></li>
+     }
+         
+     </ul>
+     
+    #embed("footer")
+    
+    </body>
+</html>
