@@ -788,20 +788,20 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             PRODUCT_BUNDLE_IDENTIFIER = "CBase32";
             PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -835,20 +835,20 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             PRODUCT_BUNDLE_IDENTIFIER = "CBase32";
             PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -906,20 +906,20 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             PRODUCT_BUNDLE_IDENTIFIER = "CBcrypt";
             PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -953,20 +953,20 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             PRODUCT_BUNDLE_IDENTIFIER = "CBcrypt";
             PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -1034,20 +1034,20 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             PRODUCT_BUNDLE_IDENTIFIER = "CCryptoOpenSSL";
             PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -1081,20 +1081,20 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             PRODUCT_BUNDLE_IDENTIFIER = "CCryptoOpenSSL";
             PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -1703,20 +1703,20 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             PRODUCT_BUNDLE_IDENTIFIER = "CNIOOpenSSL";
             PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -1750,20 +1750,20 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             PRODUCT_BUNDLE_IDENTIFIER = "CNIOOpenSSL";
             PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -3478,21 +3478,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
                "-lz",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CCryptoOpenSSL/module.modulemap",
                "-Xcc",
@@ -3540,21 +3540,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
                "-lz",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CCryptoOpenSSL/module.modulemap",
                "-Xcc",
@@ -4591,21 +4591,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap"
             );
@@ -4649,21 +4649,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap"
             );
@@ -7233,21 +7233,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
                "-lz",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap"
             );
@@ -7289,21 +7289,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
                "-lz",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap"
             );
@@ -8122,21 +8122,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
                "-lz",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             PRODUCT_BUNDLE_IDENTIFIER = "Random";
             PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -8174,21 +8174,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
                "-lz",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             PRODUCT_BUNDLE_IDENTIFIER = "Random";
             PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -8765,21 +8765,21 @@
             MACOSX_DEPLOYMENT_TARGET = "10.10";
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap",
                "-Xcc",
@@ -8835,21 +8835,21 @@
             MACOSX_DEPLOYMENT_TARGET = "10.10";
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap",
                "-Xcc",
@@ -11094,21 +11094,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap",
                "-Xcc",
@@ -11167,21 +11167,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap",
                "-Xcc",
@@ -12135,21 +12135,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap",
                "-Xcc",
@@ -12219,21 +12219,21 @@
             );
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap",
                "-Xcc",
@@ -16198,48 +16198,48 @@
       "OBJ_690" = {
          isa = "PBXGroup";
          children = (
-            "swift-nio-ssl::CNIOOpenSSL::Product",
-            "TemplateKit::TemplateKit::Product",
-            "swift-nio::CNIOAtomics::Product",
+            "Core::Bits::Product",
             "firstVapor::AppTests::Product",
-            "swift-nio-ssl::NIOOpenSSL::Product",
-            "Console::Console::Product",
-            "DatabaseKit::DatabaseKit::Product",
-            "Routing::Routing::Product",
-            "swift-nio::NIOHTTP1::Product",
-            "Console::Command::Product",
-            "Console::Logging::Product",
-            "swift-nio::CNIOHTTPParser::Product",
-            "swift-nio::CNIOLinux::Product",
-            "WebSocket::WebSocket::Product",
-            "Service::Service::Product",
-            "Crypto::Crypto::Product",
             "Core::Core::Product",
-            "swift-nio::NIOConcurrencyHelpers::Product",
-            "swift-nio::NIOFoundationCompat::Product",
-            "Crypto::Random::Product",
+            "WebSocket::WebSocket::Product",
             "Multipart::Multipart::Product",
-            "swift-nio::NIOWebSocket::Product",
-            "swift-nio::NIOPriorityQueue::Product",
-            "Vapor::Vapor::Product",
-            "Crypto::CBcrypt::Product",
-            "Leaf::Leaf::Product",
+            "Crypto::CCryptoOpenSSL::Product",
+            "swift-nio::CNIOHTTPParser::Product",
+            "swift-nio::NIOHTTP1::Product",
             "firstVapor::App::Product",
-            "Core::COperatingSystem::Product",
+            "Console::Logging::Product",
+            "swift-nio::NIOConcurrencyHelpers::Product",
             "HTTP::HTTP::Product",
+            "Core::Async::Product",
+            "swift-nio::NIO::Product",
+            "Leaf::Leaf::Product",
+            "Console::Console::Product",
+            "swift-nio::CNIODarwin::Product",
+            "Core::COperatingSystem::Product",
+            "Crypto::CBcrypt::Product",
+            "swift-nio::NIOFoundationCompat::Product",
+            "swift-nio-ssl::NIOOpenSSL::Product",
+            "swift-nio::NIOWebSocket::Product",
+            "swift-nio::CNIOSHA1::Product",
+            "swift-nio-ssl::CNIOOpenSSL::Product",
+            "Service::Service::Product",
+            "swift-nio::NIOPriorityQueue::Product",
             "Validation::Validation::Product",
             "Crypto::CBase32::Product",
-            "swift-nio::CNIODarwin::Product",
-            "Crypto::CCryptoOpenSSL::Product",
+            "Core::Debugging::Product",
+            "Crypto::Crypto::Product",
+            "DatabaseKit::DatabaseKit::Product",
+            "Vapor::Vapor::Product",
+            "Routing::Routing::Product",
             "swift-nio::CNIOZlib::Product",
-            "swift-nio::NIOTLS::Product",
-            "firstVapor::Run::Product",
+            "swift-nio::CNIOAtomics::Product",
+            "Console::Command::Product",
             "URLEncodedForm::URLEncodedForm::Product",
-            "Core::Bits::Product",
-            "swift-nio::CNIOSHA1::Product",
-            "swift-nio::NIO::Product",
-            "Core::Async::Product",
-            "Core::Debugging::Product"
+            "Crypto::Random::Product",
+            "swift-nio::CNIOLinux::Product",
+            "TemplateKit::TemplateKit::Product",
+            "swift-nio::NIOTLS::Product",
+            "firstVapor::Run::Product"
          );
          name = "Products";
          path = "";
@@ -16359,21 +16359,21 @@
             MACOSX_DEPLOYMENT_TARGET = "10.10";
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap",
                "-Xcc",
@@ -16431,21 +16431,21 @@
             MACOSX_DEPLOYMENT_TARGET = "10.10";
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap",
                "-Xcc",
@@ -16984,21 +16984,21 @@
             MACOSX_DEPLOYMENT_TARGET = "10.10";
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap",
                "-Xcc",
@@ -17054,21 +17054,21 @@
             MACOSX_DEPLOYMENT_TARGET = "10.10";
             OTHER_CFLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include"
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include"
             );
             OTHER_LDFLAGS = (
                "$(inherited)",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lssl",
-               "-L/usr/local/Cellar/libressl/2.9.2/lib",
+               "-L/usr/local/Cellar/libressl/3.0.2/lib",
                "-lcrypto",
                "-lz"
             );
             OTHER_SWIFT_FLAGS = (
                "$(inherited)",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
-               "-I/usr/local/Cellar/libressl/2.9.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
+               "-I/usr/local/Cellar/libressl/3.0.2/include",
                "-Xcc",
                "-fmodule-map-file=$(SRCROOT)/firstVapor.xcodeproj/GeneratedModuleMap/CNIOOpenSSL/module.modulemap",
                "-Xcc",

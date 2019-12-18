@@ -2,5 +2,6 @@
 <html>
 <body>
 <p> This is the Welcoming page! </p>
+#embed("footer")
 </body>
 </html>

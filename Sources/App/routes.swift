@@ -9,10 +9,6 @@ import Foundation
 
 public func routes(_ router: Router) throws {
     
-    router.get("hello") { req in
-        return "Hello, world!"
-    }
-    
     router.get { request -> Future<View> in
         
         let context = [String : String]()
@@ -20,5 +16,11 @@ public func routes(_ router: Router) throws {
         return try request.view().render("home", context)
     }
     
+    router.get("contact") { request -> Future<View> in
+        
+        let context = [String: String]()
+        
+        return try request.view().render("contact", context)
+    }
     
 }
