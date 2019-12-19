@@ -17,4 +17,10 @@ public func configure(
     // Configure the rest of your application here
     try services.register(LeafProvider())
     config.prefer(LeafRenderer.self, for: ViewRenderer.self)
+    
+    // Adding Middleware service
+    var middleware = MiddlewareConfig.default()
+    middleware.use(FileMiddleware.self)
+    services.register(middleware)
+    
 }

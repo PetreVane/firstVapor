@@ -1,7 +1,6 @@
 
-<html>
-<body>
-<p> This is the Welcoming page! </p>
-#embed("footer")
-</body>
-</html>
+#set("body") {
+    <p> Welcome to my page running on Vapor!</p>
+}
+#set("h1") {Based on Paul Hudson book: Server-side Swift Vapor edition} #set("title") {Welcome}
+#embed("master")
