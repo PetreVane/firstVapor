@@ -1,6 +1,9 @@
-# Vapor Clean
+# First Vapor 
 
-This is a template for Vapor 3 users that does the absolute minimum to set up a working Vapor 3 environment.
+This is a template based on Paul Hudson's version of Vapor 3. Look for "Server-side swift Vapor Edition" book here: https://www.hackingwithswift.com/store/server-side-swift. 
+
+This project contains few routes and few additional leaf files. It does nothing complicated other than showing some basic html pages. 
+So this is just the result of trying out Vapor framework.
 
 Unlike the official templates that are currently available, this template does not include vast swathes of extra example code that you will always need to delete. Instead, it adds just a single “hello” route so you can be sure everything is working correctly.
 
